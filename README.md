@@ -50,7 +50,7 @@ urdu-word-segmentor/
 ```bash
 cd backend
 pip install -r requirements.txt
-python app.py
+python main.py
 ```
 
 ### Frontend
@@ -58,7 +58,7 @@ python app.py
 ```bash
 cd frontend
 npm install
-npm run dev
+npm start
 ```
 
 ---
